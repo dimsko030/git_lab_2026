@@ -3,9 +3,5 @@ title: "Story"
 format: html
 embed-resources: true
 ---
+There once was a house on the beach that housed a little frog.
 
-<<<<<<< Updated upstream
-There once was...
-=======
-There once was a little frog.
->>>>>>> Stashed changes
