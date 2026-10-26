@@ -4,4 +4,8 @@ format: html
 embed-resources: true
 ---
 
+<<<<<<< Updated upstream
 There once was...
+=======
+There once was a little frog.
+>>>>>>> Stashed changes
