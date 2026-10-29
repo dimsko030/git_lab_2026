@@ -2,7 +2,7 @@
 title: "Story"
 format: html
 embed-resources: true
----
 
-Additionally, There once was a banana, and another banana, and there was something else, a banana.
+
 There once was a house on the beach...
+There once was a house on the beach with a little dog in it. One day, the little dog met a cat. The cat said 
